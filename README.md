@@ -1,6 +1,6 @@
 # dlas-w-coalescence
-This repository contains python code simulating the process of two-type DLAS with coalescence and coalescing random walks on a ring.
+This repository contains Python code simulating two related coalescing particle systems.
 
-parking.py simulates two-type DLAS with coalescence.
+``parking.py`` simulates two-type DLAS (Diffusion-Limited Annihilating Systems) with coalescence on a ring.
 
-crw.py simulates coalescing random walks without obstacles.
+``crw.py`` simulates coalescing random walks without obstacles on a ring.
